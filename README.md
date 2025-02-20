@@ -1,5 +1,5 @@
 # PropertyPlus - Real Estate Platform
-
+<h1>Project Description</h1>
 A modern real estate platform built with MERN stack that connects property buyers with owners directly. Features real-time chat and seamless property management.
 
 ## Features
